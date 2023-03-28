@@ -17,6 +17,7 @@ for %%F in (*) do (
 )
 
 echo "Dateinamen wurden in die Datei %outputFile% geschrieben."
+```
 
 ## Funktionsweise
 
